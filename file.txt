@@ -1,1 +1,3 @@
 line branch 2 second time
+line in master
+
